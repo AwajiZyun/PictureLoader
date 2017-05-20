@@ -1,0 +1,49 @@
+<<<<<<< HEAD
+#-----------------------
+# gitignore for VC++
+#-----------------------
+
+# directories
+Debug/
+Release/
+ipch/
+img/
+PictureLoader/Debug/
+PictureLoader/Release/
+
+# files
+*.db
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 98b595499e2b1b563aba4823781aba738700ed00
